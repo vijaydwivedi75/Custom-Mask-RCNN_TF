@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>image29.jpg</filename>
+	<path>/home/vijay/Desktop/Stamp_Seal_Data/JPEGImages/image29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>890</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stamp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>377</xmin>
+			<ymin>252</ymin>
+			<xmax>651</xmax>
+			<ymax>518</ymax>
+		</bndbox>
+	</object>
+</annotation>

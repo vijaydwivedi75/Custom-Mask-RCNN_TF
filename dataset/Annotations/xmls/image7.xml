@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>image7.jpg</filename>
+	<path>/home/vijay/Desktop/Stamp_Seal_Data/JPEGImages/image7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
