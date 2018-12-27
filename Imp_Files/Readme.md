@@ -1,0 +1,1 @@
+Place the 'create_mask_rcnn_tf_record.py' file in the folder 'models/research/object_detection/dataset_tools/' folder. 
