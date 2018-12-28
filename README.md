@@ -41,7 +41,9 @@ For our custom task, we try to detect Red Stamps in attested documents. We downl
 	 - IMAGE_mask.png
 	 - IMAGE_color_mask.png
 	 - IMAGE_watershed_mask.png
-		![enter image description here](https://i.imgur.com/z87O8XV.png =500x)
+	 
+     ![enter image description here](https://i.imgur.com/z87O8XV.png =500x)
+     
  - Rename all IMAGE_watershed_mask.png to IMAGE_mask.png and place inside `.dataset/Annotations/masks` folder.
  - Rename all IMAGE_color_mask.png to IMAGE.png and place inside `./dataset/Annotations` folder
  - Convert your data to TF Record format (*to generate the `train.record` file*)
